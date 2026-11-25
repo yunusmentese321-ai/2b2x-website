@@ -1,0 +1,13 @@
+[
+  {
+    "id": "post-1",
+    "slug": "designing-a-browser-around-focus",
+    "title": "Designing a Browser Around Focus",
+    "excerpt": "A practical look at how a browser interface can reduce visual noise while keeping essential controls close at hand.",
+    "category": "Product",
+    "author": "2B2X Studio",
+    "date": "2026-09-12T10:00:00+00:00",
+    "image": "",
+    "content": "<p>Every browser is an agreement between the user and the interface. The most useful interfaces do not compete for attention; they quietly remove friction from the work that matters.</p><p>2B2X starts with that principle. The visual hierarchy keeps the page transparent, while the browser controls remain intentionally understated. The result is a workspace that feels calm without becoming empty.</p><h2>Clarity before decoration</h2><p>Product surfaces should communicate structure before they communicate personality. A clear visual hierarchy allows the user to understand where they are, what they can do, and what changed.</p><blockquote>Good product design is not the absence of personality. It is personality built on a reliable foundation.</blockquote><p>That foundation is what makes the experience feel premium: deliberate spacing, consistent motion, and a restrained color system.</p>"
+  }
+]

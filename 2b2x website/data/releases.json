@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rel-1.0.0",
+    "version": "1.0.0",
+    "title": "First Light",
+    "description": "A focused first release built for fast, private browsing on Windows.",
+    "release_notes": ["A refined, focused browser interface", "Secure local download history", "Improved tab and navigation behavior"],
+    "filename": "2b2x-Browser-Setup.exe",
+    "download_url": "download.php?release_id=rel-1.0.0",
+    "file_size": 151718150,
+    "checksum": "8A400E73C04EABE84211DC573A3279A4896B3C0CF36762195847C45E0B5CE9A8",
+    "supported_os": "Windows 10 / 11",
+    "architecture": "64-bit",
+    "is_latest": true,
+    "is_published": true,
+    "created_at": "2026-09-01T09:00:00+00:00",
+    "published_at": "2026-09-01T09:00:00+00:00"
+  }
+]

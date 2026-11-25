@@ -1,0 +1,9 @@
+{
+  "site_name": "2B2X Browser",
+  "tagline": "Browse Beyond Limits.",
+  "accent_color": "#9b6cff",
+  "supported_os": "Windows 10 / 11",
+  "download_enabled": true,
+  "contact_email": "hello@2b2x.local",
+  "site_url": "http://localhost/2b2x"
+}
